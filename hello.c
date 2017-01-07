@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	cout<<"Hello,yyt~~"<<endl;
-	///下次修改请在后面添加 cout<<"Hello,XXX"<<endl即可 
+	cout<<"Hello,hanxu"<<endl; 
+       ///添加cout<<"Hello,XXX"<<endl;/// 
 	return 0;
 } 
